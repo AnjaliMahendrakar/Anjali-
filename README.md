@@ -1,53 +1,139 @@
-<!-- SETUP 1. Create a PUBLIC repo named exactly: AnjaliMahendrakar (same as your GitHub username) 2. Add this file as README.md in that repo 3. Replace YOUR-LINKEDIN-ID below with your real LinkedIn handle (appears twice) 4. Double-check your LeetCode username spelling (see the two LeetCode links) --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6366F1,100:EC4899&text=Hi%2C%20I'm%20Anjali&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=CSE%20student%20%C2%B7%20DSA%20now%2C%20backend%20next&descAlignY=60&descSize=18" alt="Hi, I'm Anjali - CSE student, DSA now, backend next" /> <a href="https://github.com/AnjaliMahendrakar"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=640&lines=Solving+DSA+in+C%2B%2B%2C+one+problem+at+a+time;Learning+in+public%2C+getting+better+daily;Next%3A+Python+%2B+FastAPI+and+Java+%2B+Spring+Boot" alt="Typing animation" /> </a> <br/>
+<!--
+  ANJALI MAHENDERKER | FUTURISTIC DEVELOPER PORTFOLIO
+  Replace GITHUB_USERNAME after confirming your GitHub username.
+-->
 
-LeetCode LinkedIn GitHub
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020024,50:090979,100:00D4FF&text=ANJALI%20MAHENDERKER&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DEVELOPER%20IN%20PROGRESS%20%7C%20FUTURE%20BACKEND%20ENGINEER&descAlignY=58&descSize=13&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Initializing+Developer+Profile...;Currently+Mastering+DSA+with+C%2B%2B;Building+Problem+Solving+Intelligence;Future+Backend+Engineer;Learning.+Building.+Evolving." />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=GITHUB_USERNAME&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS" />
 
 </div>
-👩‍💻 About me
 
-I'm a second-year B.Tech CSE student (class of 2029).
+---
 
-Right now my entire focus is data structures and algorithms. I'm building problem-solving skills from the ground up, and I'm doing it in public so the progress is visible, not just promised. Once that foundation is solid, I'll move into backend engineering with Python (FastAPI) and Java (Spring Boot).
+## `01 // SYSTEM INTRODUCTION`
 
-I'm early in the journey, and this page will change as I do.
+```yaml
+NAME       : Anjali Mahenderker
+IDENTITY   : Aspiring Software Developer
+CURRENT    : Data Structures & Algorithms
+LANGUAGE   : C++
+NEXT       : Python & Backend Development
+FUTURE     : Backend Engineering
+STATUS     : Learning_Mode_Active
+```
 
-🎯 What I'm doing right now
-🧠 Working through Striver's A2Z DSA sheet, coding every problem in C++
-🔁 Practising daily on LeetCode, with HackerRank and Codeforces for logic building
-📅 Daily DSA practice, committed through 30 December 2026
-📝 Writing down the pattern behind each problem, not just the code
-🗺️ Roadmap
-Phase	Focus	Status
-1	DSA in C++: problem solving and patterns	🟢 In progress
-2	Backend engineering with Python and FastAPI	🔜 Later
-3	Backend engineering with Java and Spring Boot	🔜 Later
+> "Building intelligence through code, one problem at a time."
 
-Phase 1 comes first on purpose. Backend projects are better when the problem-solving underneath them is strong.
+I am currently focused on developing strong programming fundamentals, mastering DSA, and improving my problem-solving abilities.
 
-🛠️ Tech stack
+My long-term goal is to become a Backend Engineer and build scalable applications using modern backend technologies.
 
-Using now
+---
 
-Show Image Show Image Show Image Show Image
+## `02 // CURRENT MISSION`
 
-Have worked with
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" />
 
-Show Image Show Image Show Image
+**MISSION: MASTER DATA STRUCTURES & ALGORITHMS**
 
-Learning next
+- Developing logical thinking using C++.
+- Practicing coding problems on LeetCode.
+- Understanding time and space complexity.
+- Learning efficient algorithms and data structures.
+- Improving consistency through daily coding.
 
-Show Image
+### Current Tech Stack
 
-📊 Progress
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=AnjaliMahendrakar&theme=dark&hide_border=true"> <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=AnjaliMahendrakar&theme=default&hide_border=true"> </picture> <br/> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/AnjaliMahenderker?theme=dark&font=Karla&ext=heatmap"> <img alt="LeetCode stats" src="https://leetcard.jacoblin.cool/AnjaliMahenderker?theme=light&font=Karla&ext=heatmap"> </picture> </div>
-🧭 How I practise
-Try first. Give every problem real thinking time before opening a hint or a solution.
-Understand the pattern. Know why the approach works, not just what the code is.
-Re-solve later. If I can't redo it without help, I haven't learned it yet.
-🤝 Let's connect
+<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode&theme=dark" />
 
-If you're also grinding DSA or learning backend development, I'd love to connect.
+---
 
-💼 LinkedIn
-🧩 LeetCode
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:EC4899,100:6366F1&section=footer" width="100%" alt="" />
+## `03 // DEVELOPMENT ROADMAP`
+
+<div align="center">
+
+| PHASE | MISSION | STATUS |
+|:---:|---|:---:|
+| 01 | C++ & Programming Fundamentals | ACTIVE |
+| 02 | Data Structures & Algorithms | ACTIVE |
+| 03 | Python, NumPy & Pandas | UPCOMING |
+| 04 | FastAPI & Backend Development | FUTURE |
+| 05 | Java & Spring Boot | FUTURE |
+| 06 | Real-World Backend Projects | FUTURE |
+
+</div>
+
+### Future Technology Arsenal
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,mysql,postgres,docker,postman&theme=dark" />
+
+---
+
+## `04 // CODING INTELLIGENCE`
+
+<div align="center">
+
+<a href="https://leetcode.com/u/AnjaliMahenderker/">
+<img src="https://leetcard.jacoblin.cool/AnjaliMahenderker?theme=dark&font=Fira%20Code&ext=heatmap" width="95%" />
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/AnjaliMahenderker/">
+<img src="https://img.shields.io/badge/LEETCODE-FF9A00?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://www.linkedin.com/in/anjali-mahendarkar-141a37376/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## `05 // DEVELOPER PRINCIPLES`
+
+```cpp
+while (learning) {
+    solveProblems();
+    buildProjects();
+    improveLogic();
+    learnNewTechnologies();
+    neverStopImproving();
+}
+```
+
+- Logic before shortcuts.
+- Consistency before perfection.
+- Understand before implementing.
+- Build before claiming expertise.
+- Progress over perfection.
+
+---
+
+## `06 // ESTABLISH CONNECTION`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/anjali-mahendarkar-141a37376/">
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-00D4FF?style=for-the-badge&logo=linkedin&logoColor=black" />
+</a>
+
+<a href="https://leetcode.com/u/AnjaliMahenderker/">
+<img src="https://img.shields.io/badge/VIEW_LEETCODE_PROFILE-00D4FF?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=SYSTEM+ONLINE...;NEW+SKILLS+LOADING...;FUTURE+IS+BUILT+WITH+CODE." />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=110&section=footer" width="100%"/>
+
+</div>
